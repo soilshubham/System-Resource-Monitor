@@ -1,5 +1,5 @@
 # System Resource Monitor
-This is a Windows Form Application which shows basic System Recources and other system details.
+This is a Windows Form Application which shows basic System Resources and other system details.
 
 ## Snapshots
 <img src="https://user-images.githubusercontent.com/54865101/141664520-0e807d4c-357a-4251-961f-d273e16a4c92.png" width="70%"/>
