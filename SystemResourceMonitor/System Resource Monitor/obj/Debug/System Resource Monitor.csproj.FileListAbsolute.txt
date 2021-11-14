@@ -1,0 +1,14 @@
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\bin\Debug\System Resource Monitor.exe.config
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\bin\Debug\System Resource Monitor.exe
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\bin\Debug\System Resource Monitor.pdb
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\bin\Debug\MetroFramework.Design.dll
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\bin\Debug\MetroFramework.dll
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\bin\Debug\MetroFramework.Fonts.dll
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System Resource Monitor.csproj.AssemblyReference.cache
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System_Resource_Monitor.Form1.resources
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System_Resource_Monitor.Properties.Resources.resources
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System Resource Monitor.csproj.GenerateResource.cache
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System Resource Monitor.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System Resource Monitor.csproj.CopyComplete
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System Resource Monitor.exe
+D:\Programming\C# Projects\SystemResourceMonitor\System Resource Monitor\obj\Debug\System Resource Monitor.pdb
